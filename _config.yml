@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kr-KR"
+locale                   : "ko-KR"
 title                    : "SOL's Dev Note"
 title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "HANSOL"
-description              : "My Dev Archeive."
+description              : "My Archeive."
 url                      : "https://hsolyoo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:hsoly@kakao.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
